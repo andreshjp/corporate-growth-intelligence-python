@@ -1,7 +1,7 @@
 # Corporate Growth & Market Efficiency Analysis 📊
 
 ### Project Overview
-This project focuses on analyzing a dataset of 1,000 global companies to identify market leaders, assess operational efficiency through revenue-per-employee metrics, and segment performance by industry and location (specifically focusing on major hubs like New York). 
+This project focuses on analyzing a dataset of over 8,000 global companies to identify market leaders, assess operational efficiency through revenue-per-employee metrics, and segment performance by industry and location (specifically focusing on major hubs like New York). 
 
 As a Business Economist, I approached this data to extract actionable insights regarding corporate scale and profitability patterns.
 
